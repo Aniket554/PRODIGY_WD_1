@@ -1,2 +1,2 @@
 # PRODIGY_WD_01
-This is project related to the Responsive landing page.
+PRODIGY INFOTECH TASK-1 OF WEBDEVELOPMENT
